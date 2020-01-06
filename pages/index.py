@@ -16,9 +16,9 @@ column1 = dbc.Col(
         dcc.Markdown(
             """
         
-            ## Your Value Proposition
+            ## How much solar power could your home produce?
 
-            Emphasize how the app will benefit users. Don't emphasize the underlying technology.
+            What kind of impact could you have on the environment by adding solar panels to your roof?
 
             ✅ RUN is a running app that adapts to your fitness levels and designs personalized workouts to help you improve your running.
 
